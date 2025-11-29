@@ -1,5 +1,3 @@
-from pathlib import Path
-
 ## 📱 Expense Tracker App
 
 The **Expense Tracker** is a simple and efficient Android application built using **Kotlin**, **MVVM architecture**, **Room Database**, and **ViewBinding**.  
